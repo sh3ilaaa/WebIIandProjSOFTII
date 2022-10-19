@@ -10,11 +10,11 @@ Javascript
 
 - Clonar o repositório:
 
-    - copie o seguinte link: https://github.com/FernandaNascimento26/Programa-o-Web-I---IFCE
+    - copie o seguinte link: https://github.com/FernandaNascimento26/WebIIandProjSOFTII
 
     - no terminal do seu computador, execute o seguinte comando: 
     
-    https://github.com/FernandaNascimento26/WebIIandProjSOFTII
+         `git clone https://github.com/FernandaNascimento26/WebIIandProjSOFTII`
 
 - Você também pode baixar os arquivos:
     - Para isso, clique na opção *code* da página inicial deste repositório e escolha a opção *download zip*
