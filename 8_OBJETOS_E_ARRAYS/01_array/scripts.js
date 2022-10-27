@@ -8,3 +8,5 @@ console.log(arr);
 console.log(nomes);
 console.log(bool);
 console.log(misturado);
+
+console.log(nomes[2]);
